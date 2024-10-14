@@ -8,7 +8,7 @@ $resourceProviders = @(
     "Microsoft.KeyVault",
     "Microsoft.ContainerRegistry",
     "Microsoft.ContainerService",
-    "Microsft.Quota"
+    "Microsoft.Quota"
 )
 
 # Set variable for tenant ID
